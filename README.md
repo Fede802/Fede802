@@ -1,8 +1,7 @@
 # Federico Bravetti
 
 <p align="center">
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fede802&layout=compact&langs_count=8&theme=tokyonight" />
-  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=Fede802&show_icons=true&theme=tokyonight" />
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fede802&theme=tokyonight" />
 </p>
 
 <p align="center">
